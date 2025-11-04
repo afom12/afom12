@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there, I'm <span style="color:#4CAF50;">Afomiya Ketsella</span></h1>
 
 <p align="center">
-  [<img src="https://i.imgur.com/q6r3k4R.png" width="85%" alt="Afomiya's banner"/>](https://cyberpunkportfolio.netlify.app/)
+  https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
 </p>
 
 <p align="center">
