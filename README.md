@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there, I'm <span style="color:#4CAF50;">Afomiya Ketsella</span></h1>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=afom12&theme=radical" height="160px"/>
+<img src="https://github.com/afom12/afom12/blob/main/banner.png" width="85%" alt="Afomiya's banner"/>
 </p>
 
 <p align="center">
