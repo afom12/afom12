@@ -31,10 +31,10 @@
 
 ### 🌐 Let's connect:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Afomiya_Ketsella-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-AfomiyaKetsella-black?style=for-the-badge&logo=github)](https://github.com/AfomiyaKetsella)
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Afomiya_Ketsella-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/afom12/)
+[![GitHub](https://img.shields.io/badge/GitHub-AfomiyaKetsella-black?style=for-the-badge&logo=github)](https://github.com/afom12)
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afomi_ke1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Afomi_K)
 
 ---
 
@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats:
 
-![Afomiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfomiyaKetsella&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfomiyaKetsella&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AfomiyaKetsella&theme=radical)
+![Afomiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=afom12&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afom12&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afom12&theme=radical)
 
 Add my personal GitHub profile README ✨
