@@ -82,7 +82,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afom12&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afom12&theme=radical" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=afom12&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
