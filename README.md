@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there, I'm <span style="color:#4CAF50;">Afomiya Ketsella</span></h1>
 
 <p align="center">
-  https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
+ <img src="https://streak-stats.demolab.com?user=afom12&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
