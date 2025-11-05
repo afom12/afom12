@@ -21,7 +21,7 @@
 - 💡 I love solving real-world problems through creative software solutions
 - 🤝 Open to collaborating on **open-source**, **hackathons**, and **impactful tech projects**
 - 🎯 My dream is to become an **outstanding Front-End & Mobile App Developer**
-- ☕ Fun fact: I code best with good music and a cup of coffee
+- ☕ Fun fact: I code best with Mezmur and a cup of coffee
 
 ---
 
