@@ -78,13 +78,14 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Use rickstaa's fork (currently active) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afom12&show_icons=true&theme=radical&hide_border=true" height="165px"/>
+  <!-- Stats -->
+  <img alt="Afom12's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=afom12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="165px"/>
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afom12&layout=compact&theme=radical&hide_border=true" height="165px"/>
+  <!-- Streak -->
+  <img alt="Afom12's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=afom12&theme=monokai-metallian&hide_border=true" height="165px"/>
 </p>
 ---
 
