@@ -80,12 +80,12 @@
 
 ### 📊 GitHub Insights
 
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afom12&theme=radical" height="160px"/>
-
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afom12&layout=compact&theme=radical&hide=html,css" height="160px"/>
-
+<p align="center">
+  <!-- Use rickstaa's fork (currently active) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afom12&show_icons=true&theme=radical&hide_border=true" height="165px"/>
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afom12&layout=compact&theme=radical&hide_border=true" height="165px"/>
+</p>
 ---
 
 ### ✨ “Code with creativity, learn with humility, build with purpose.”  
