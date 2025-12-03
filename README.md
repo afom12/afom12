@@ -78,20 +78,13 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  
-  <!-- Stats Card - Using active fork -->
-  <img src="https://github-readme-stats.vercel.app/api?username=afom12&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="165px"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afom12&theme=radical&hide_border=true" height="165px"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afom12&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165px"/>
+  <a href="https://github.com/afom12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afom12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afom12&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
