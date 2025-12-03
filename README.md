@@ -82,8 +82,8 @@
 
 <p align="center">
   <a href="https://github.com/afom12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afom12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afom12&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afom12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs" alt="Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afom12&layout=compact&langs_count=8&theme=radical&hide=html,css" alt="Top Languages"/>
   </a>
 </p>
 
