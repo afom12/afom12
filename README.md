@@ -78,19 +78,13 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Using alternative service 1 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afom12&theme=radical" height="160px"/>
-  
-  <!-- Using alternative service 2 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afom12&theme=radical" height="160px"/>
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=afom12&theme=redical&bg_color=0d1117&hide_border=true" height="160px"/>
+  <a href="https://github.com/afom12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afom12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afom12&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 ---
 
