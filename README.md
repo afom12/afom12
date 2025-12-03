@@ -81,11 +81,16 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afom12&show_icons=true&theme=radical" height="160px"/>
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=afom12&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160px"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afom12&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afom12&layout=compact&theme=radical" height="160px"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afom12&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160px"/>
 </p>
 
 ---
