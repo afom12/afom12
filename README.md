@@ -87,10 +87,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afom12&theme=radical&hide_border=true&bg_color=0d1117" height="250px"/>
-</p>
 
 
 ### ✨ “Code with creativity, learn with humility, build with purpose.”  
